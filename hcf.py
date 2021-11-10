@@ -14,3 +14,4 @@ def hcf(a,b):
     return hcf
 
 print("hcf is ", hcf )
+#this is a comment
